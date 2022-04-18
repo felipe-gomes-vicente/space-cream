@@ -64,23 +64,23 @@ main {
   background: #EFF1FF;
 }
 
-.bagdes {
+.bagde-item {
   position:relative;
   margin-bottom: 3.6rem;
   animation: down-to-top 700ms;
   transition: transform 250ms;
 }
 
-.bagdes:hover {
+.bagde-item:hover {
   transform: scale(1.1);
   margin: 5rem;
 }
 
-.bagdes img{
+.bagde-item img{
   width: 100%;
 }
 
-.bagdes h2 {
+.bagde-item h2 {
   position: absolute;
   font-weight: normal;
   color: #4A4E69;
