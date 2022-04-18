@@ -73,7 +73,6 @@ main {
 
 .bagde-item:hover {
   transform: scale(1.1);
-  margin: 5rem;
 }
 
 .bagde-item img{
@@ -115,4 +114,34 @@ main {
     opacity: 1;
     transform: translateY(0);
   }
+}
+
+@media (min-width: 900px) {
+ 
+  
+
+  .page {
+    display: flex;
+    flex-direction: row;
+  }
+
+  aside {
+    justify-content: flex-start;
+    align-items: center;
+    width: 44.8%;
+  }
+
+  aside .aside-text {
+    background: #8E9AAF;
+  }
+
+  main {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 55%;
+    gap: 3.2rem;
+    padding: 6.4rem 8.1rem;
+  }
+  
+
 }
