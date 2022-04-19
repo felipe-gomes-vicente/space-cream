@@ -1,11 +1,7 @@
+/* Google Fonts Typography*/
 @import url("https://fonts.googleapis.com/css2?family=Palanquin:wght@400;700&family=Staatliches&display=swap");
 
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
+/* CSS variables */
 :root {
   --ff-heading: "Staatliches", sans-serif;
   --ff-texting: "Palanquin", sans-serif;
@@ -24,6 +20,15 @@
   --fs-heading-desktop: 4.8rem;
 }
 
+/* HTML5 display-role reset for browsers */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ============= Body =============== */
+/* ========= Mobile First=========== */
 body {
   font-family: var(--ff-heading);
   font-size: var(--fs-body);
@@ -37,6 +42,7 @@ body {
   flex-direction: column;
 }
 
+/* ============ Aside =============== */
 aside {
   display: flex;
   flex-direction: column;
@@ -72,6 +78,7 @@ aside .aside-text {
   text-align: center;
 }
 
+/* ============ Main =============== */
 main {
   padding: 1.4rem 3.2rem 6rem;
 }
@@ -105,10 +112,12 @@ main {
   animation: top-to-down 500ms 500ms forwards;
 }
 
+/* ============ Footer =============== */
 footer {
   display: none;
 }
 
+/* ============ Keyframes =============== */
 @keyframes down-to-top {
   from {
     opacity: 0;
@@ -131,6 +140,7 @@ footer {
   }
 }
 
+/* ============ Breakpoint Tablet =============== */
 @media (min-width: 768px) {
   .page {
     display: flex;
@@ -147,12 +157,16 @@ footer {
     width: 55%;
   }
 }
+
+/* ============ Breakpoint Desktop =============== */
 @media (min-width: 1000px) {
+  
   .page {
     display: flex;
     flex-direction: row;
   }
 
+  /* ========= Aside ========== */
   aside {
     justify-content: flex-start;
     align-items: center;
@@ -169,6 +183,7 @@ footer {
     background: var(--bg-secondary);
   }
 
+  /* ========= Main ========== */
   main {
     display: grid;
     grid-template-areas:
@@ -207,6 +222,7 @@ footer {
     border-radius: 20px;
   }
 
+  /* ========= Footer ========== */
   main footer {
     position: absolute;
     font-weight: normal;
@@ -217,5 +233,9 @@ footer {
     right: 9rem;
     display: block;
     font-family: var(--ff-texting);
+  }
+
+  main footer a:hover {
+    font-weight: bold;
   }
 }
