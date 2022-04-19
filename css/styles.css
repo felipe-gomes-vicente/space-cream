@@ -194,5 +194,16 @@ footer {
     object-fit: cover;
     border-radius: 20px;
   }
-  
+
+  main footer {
+    position: absolute;
+    font-weight: normal;
+    color: #4A4E69;
+    text-align: center;
+    width: 55rem;
+    bottom: 1rem;
+    right: 9rem;
+    display: block;
+    font-family: "Palanquin", sans-serif;
+  }
 }
