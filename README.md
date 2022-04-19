@@ -1,6 +1,8 @@
 # Space Cream
 
-
+<h1 align="center">
+    <img alt="Gif do projeto concluído Space Cream" title="gif" src="./assets/space-cream.gif" />
+</h1>
 
 <br>
 
