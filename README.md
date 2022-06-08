@@ -1,94 +1,94 @@
 # Space Cream
 
 <h1 align="center">
-    <img alt="Gif do projeto concluído Space Cream" title="gif" src="./assets/space-cream.gif" />
+    <img alt="Gif of the finished project Space Cream" title="gif" src="./assets/space-cream.gif" />
 </h1>
 
 <br>
 
 ### 💻 Space Cream
 
-O desafio desse é construír uma página web com responsividade conceito Mobile first
-do zero utilizar o layout do protótipo disponível no figma, fortalecer meu 
-conhecimento de HTML e CSS GRID aplicar conceitos e o que foi visto nos projetos 
-anteriores do Stage 2 Stage 3 aplicar ao projeto, animações e transições no CSS.
+Build a responsive web page Mobile first concept from scratch using the prototype 
+layout available in figma.
+Strengthen my knowledge of HTML and CSS GRID apply concepts and what was seen in
+the projects Stage 2 Stage 3 versions apply to the project, animations and transitions 
+in CSS.
 
-Acesse a página do projeto: [Clique Aqui](https://felipe-gomes-vicente.github.io/space-cream//)
+Watch it in action Deploy: [Click Here](https://felipe-gomes-vicente.github.io/space-cream//)
 
-O que foi feito:
+What was developed:
 
-- Estruturando HTML com tags semânticas;
+- Structuring HTML with semantic tags;
 - Mobile First;
-- Me desafei e apliquei Responsividade com CSS GRID;
-- Unidade de medida flexível;
-- Breakpoints com media media query;
-- Posição dos elementos na tela;
-- Importar arquivo de CSS externo no projeto;
-- Aplicando fontes(tipografia) customizadas no arquivo do CSS e iniciar o CSS externo;
-- Trabalhando com cores e fontes;
-- Alinhando e posicionando textos e elementos;
-- Aplicando os espaçamentos;
-- Bordas e classificações de elementos;
-- O conceito Box Model do CSS flexbox e aplicar CSS GRID;
-- Animações CSS e transições;
-- Utilizar variaveis CSS para manipular a paleta de cores do projeto e fontes;
-- Reset CSS removendo possíveis inconsistências entre navegadores diferentes;
-- Estrutura de sistema de arquivos do projeto separado por pasta;
+- I challenged myself and applied Responsiveness with CSS GRID;
+- Flexible measurement unit;
+- Breakpoints with media media query;
+- Import external CSS file into the project;
+- Applying custom fonts (typography) in the CSS file and starting the external CSS;
+- Working with colors and fonts;
+- Aligning and positioning, spacing texts and elements;
+- Applying the spacing;
+- Borders and element classifications;
+- The Box Model concept of CSS flexbox and applying CSS GRID;
+- CSS animations and transitions;
+- Use CSS variables to manipulate the project's color palette and fonts;
+- Reset CSS removing possible inconsistencies between different browsers;
+- Project file system structure separated by folder;
 
+I applied my knowledge of the Explorer from Rocketseat concepts in a practical way 
+to this project, with the lessons:
 
-Aplicado meu conhecimento do Explorer da Rocketseat conceitos de forma prática 
-nesse projeto, com as aulas:
-
-- Introdução ao HTML e CSS;
-- Conhecendo novos conceitos de HTML e CSS;
-- Avançando no HTML e CSS;
-- Responsividade;
+- Introduction to HTML and CSS;
+- Getting to know new concepts of HTML and CSS;
+- Advancing in HTML and CSS;
+- Responsiveness;
   
 <br />
 
 - [EXPLORER - Rocketseat](https://www.rocketseat.com.br/explorer)
-- [Figma do Projeto - Space Cream Mobile](https://www.figma.com/file/drBBktNRdtCIUiN4cZk4yo?node-id=0:1)
-- [Figma do Projeto - Space Cream Desktop](https://www.figma.com/file/pddZCuQIRLjk5dEHQ4L4YR?node-id=0:1)
+- [Design Figma - Space Cream Mobile](https://www.figma.com/file/drBBktNRdtCIUiN4cZk4yo?node-id=0:1)
+- [Design Figma - Space Cream Desktop](https://www.figma.com/file/pddZCuQIRLjk5dEHQ4L4YR?node-id=0:1)
 
-## Imagem do Projeto concluído:
- <img alt="Print do projeto Space cream" title=" Landing page" src="./assets/space-cream.png" />
+## Image from the final project:
+ <img alt="Print Space cream" title=" Landing page" src="./assets/space-cream.png" />
 
  <br />
 
- <p>Imagem do Projeto Mobile</p>
-<img alt="Print do projeto Space cream mobile" title=" Landing page" src="./assets/space-cream-mobile.png" />
+ <p>Image Space cream Mobile</p>
+<img alt="Print Space cream mobile" title=" Landing page" src="./assets/space-cream-mobile.png" />
 
-## 🧪 Tecnologias
 
-Aplicação desenvolvida usando as seguintes tecnologias:
+## 🧪 Tools
+
+Application developed using the following tools:
 
 - [HTML5](https://www.w3schools.com/html/default.asp)
 - [CSS3](https://www.w3schools.com/css/default.asp)
 
-## 🚀 Iniciar Projeto
+## 🚀 Getting started
 
-Live server com VScode ou apenas clonar pasta e acessar o index.html
+Live server with VScode or just clone folder and access index.html
 
-### Programas necessários para iniciar projeto
+### Programs needed to Getting started
 
 - [Live Server (Opcional)](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 - [Visual Studio Code - Vscode](https://code.visualstudio.com/)
 
-Clone o projeto e acesso a pasta.
+Clone the project and access the folder.
 
 ```bash
 $ git clone https://github.com/felipe-gomes-vicente/rocket-sect.git
 $ cd rocket-sect
 ```
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the MIT license. See the file [LICENSE](LICENSE.md) for more details.
 
 ---
 
 &nbsp;
 
-<p align="center">Feito com 💜 by Felipe Vicente👋</p>
+<p align="center">Done with 💜 by Felipe Vicente👋</p>
 
-- ## Meu LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/-FelipeVicente-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-gomes-vicente/)](https://www.linkedin.com/in/felipe-gomes-vicente/)
+- ## My LinkedIn - [![Linkedin Badge](https://img.shields.io/badge/-FelipeVicente-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-gomes-vicente/)](https://www.linkedin.com/in/felipe-gomes-vicente/)
